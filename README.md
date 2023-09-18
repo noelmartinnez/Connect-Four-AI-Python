@@ -19,5 +19,5 @@ In this code, an algorithm for game search has been developed for the game Conne
 
 ## Game Operation
 
-When you run the game, a board will appear ready to input pieces. The game is designed to work in human-machine mode, with the person starting. To place a piece, simply click with the mouse on the column where you want to drop the piece. If the column has space, a red piece will be displayed in the corresponding position. Next, it's the computer's turn. Using the implemented algorithm, the appropriate position is determined, and a yellow piece will appear in that position.
+When you run the game, a board will appear ready to input pieces. The game is designed to work in human-machine mode, with the person starting. To place a piece, simply click with the mouse on the column where you want to drop the piece. If the column has space, a red piece will be displayed in the corresponding position. Next, it's the computer's turn. Using the implemented algorithm, the appropriate position is determined, and a yellow piece will appear in that position.  
 The game continues until one of the players manages to place 4 pieces in a row or the board is filled.
